@@ -22,3 +22,6 @@ tr:nth-child(even){
 tr:nth-child(odd){
     background-color: #a8dadc;
 }
+.claseLibre{
+    background-color: #80b918;
+}
