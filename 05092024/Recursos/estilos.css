@@ -1,0 +1,47 @@
+body{
+    background-color: #38040e;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5em;
+}
+.fondoBlanco{
+    background-color: white;
+}
+.fondoAzul{
+    background-color: deepskyblue;
+}
+.fondoNegro{
+    background-color: black;
+}
+.imagen{
+    width: 250px;
+}
+.texto1{
+    text-align: center;
+    font-size: 3em;
+    color: #250902;
+}
+.texto2{
+    font-size: 1em;
+    color: #ad2831;
+    text-align: justify;
+}
+.separacion{
+    padding: 1em;
+    background-color: #640d14;
+}
+.texto3{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.borde{
+    border: 10px solid white;
+    border-radius: 10px;
+}
+.bordeAzul{
+    border: 2px solid deepskyblue;
+    border-radius: 5px;
+}
+.bordeRojo{
+    border: 2px solid #640d14;
+    border-radius: 5px;
+}
