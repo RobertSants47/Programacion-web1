@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(59,12,229,1) 89%, rgba(0,212,255,1) 100%);
+}
+.centrado{
+    text-align: center;
+    border: 2px solid white;
+    padding: 10px;
+    display: inline-block;
+}
+.fondo1{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(189,11,11,1) 89%, rgba(0,212,255,1) 100%);
+}
+a:link, a:visited{
+    background-color: #b5179e;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover, a:active{
+    background-color: #f72585;
+}
